@@ -1,20 +1,25 @@
 # 👩🏻‍💻Irlla Martins
 
-**`Desenvolvedora FullStack`**
-
+**`Desenvolvedora Front-end`**
+<p align="justify">
 Me chamo Irlla Martins Barbosa da Silva, sou natural da Paraiba. Sou Bacharela em Ciência da Computação pela Universidade Estadual da Paraíba e técnico de informática integrado ao ensino médio pelo Instituto Federal da Paraíba. Durante minha trajetória acadêmica, atuei como monitor, auxiliando estudantes em disciplinas de algoritmos e atuo como bolsista desenvolvedora front-end do NUTES/UEPB
-
-<p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Linkedin&logoColor=white"
-        />
-    </a>
 </p>
 
----
+
+<a href="https://www.linkedin.com/in/irlla-martins/" target="_blank">
+    <img 
+        align="left" 
+        alt="LinkedIn" 
+        title="LinkedIn" 
+        width="100px" 
+        style="padding-right: 10px;" 
+        src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"
+    />
+</a>
+
+
+<br/>
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 

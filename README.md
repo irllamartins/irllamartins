@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Irlla Martins Barbosa da Silva, sou natural da Paraiba. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou Bacharela em Ciência da Computação pela Universidade Estadual da Paraíba e técnico de informática integrado ao ensino médio pelo Instituto Federal da Paraíba. Durante minha trajetória acadêmica, atuei como monitor, auxiliando estudantes em disciplinas de algoritmos e atuo como bolsista desenvolvedora front-end do NUTES
+Me chamo Irlla Martins Barbosa da Silva, sou natural da Paraiba. Sou Bacharela em Ciência da Computação pela Universidade Estadual da Paraíba e técnico de informática integrado ao ensino médio pelo Instituto Federal da Paraíba. Durante minha trajetória acadêmica, atuei como monitor, auxiliando estudantes em disciplinas de algoritmos e atuo como bolsista desenvolvedora front-end do NUTES/UEPB
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=followers">
